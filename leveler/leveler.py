@@ -94,7 +94,7 @@ class Leveler(commands.Cog):
                     "lamp": "http://i.imgur.com/0nQSmKX.jpg",
                     "coastline": "http://i.imgur.com/XzUtY47.jpg",
                     "redblack": "http://i.imgur.com/74J2zZn.jpg",
-                    "default": "http://i.imgur.com/8T1FUP5.jpg",
+                    "default": "https://cdn.discordapp.com/attachments/614079784032534568/710480898142765091/bgprofile.png",
                     "iceberg": "http://i.imgur.com/8KowiMh.png",
                     "miraiglasses": "http://i.imgur.com/2Ak5VG3.png",
                     "miraikuriyama": "http://i.imgur.com/jQ4s4jj.png",
@@ -108,7 +108,7 @@ class Leveler(commands.Cog):
                     "mountain": "http://i.imgur.com/qYqEUYp.jpg",
                     "city": "http://i.imgur.com/yr2cUM9.jpg",
                 },
-                "levelup": {"default": "http://i.imgur.com/eEFfKqa.jpg"},
+                "levelup": {"default": "https://cdn.discordapp.com/attachments/614079784032534568/710480898142765091/bgprofile.png"},
             },
         }
         default_guild = {
